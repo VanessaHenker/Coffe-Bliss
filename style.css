@@ -38,6 +38,9 @@ ul{
   color: #fff2e780;
 }
 
+.cabecalho-pricipal-li:hover{
+  text-decoration:underline ;
+}
 .cabecalho-principal{
   max-width: 1120px;
   margin: auto;
