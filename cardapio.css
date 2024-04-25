@@ -54,7 +54,7 @@ hr{
   font-weight: 400;
 }
 
-.conteudo-principal-imagem-container{
+.conteudo-principal-imagem{
   display: flex;
   justify-content: center;
   align-items: center;
