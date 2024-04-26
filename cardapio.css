@@ -70,8 +70,8 @@ hr{
   padding: 0px 15px;
   width: 300px;
   height: 200px;
-
 }
+
 .conteudo-principal-imagem-border:hover{
   width: 100%;
   border-radius: 2rem;
@@ -113,5 +113,13 @@ button{
   padding: 0.5rem;
   border-radius: 0.5rem;
 
+  background-color: #A45A49;
+}
+
+button:hover{
+  border: none;
+  padding: 0.5rem;
+  width: 40px;
+  height: 50px;
   background-color: #A45A49;
 }
