@@ -1,4 +1,4 @@
-.conteudo-secundario-receitas{
+.conteudo-receitas{
   max-width: 1120px;
   display: flex;
   flex-direction: row;
@@ -10,13 +10,13 @@
   margin: auto;
 }
 
-.conteudo-secundario-receitas-cabecalho{
+.conteudo-receitas-cabecalho{
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
 }
 
-.conteudo-secundario-destaque{
+.conteudo-destaque{
   color: #A45A49;
   font-family: Montserrat;
   text-transform: uppercase;
