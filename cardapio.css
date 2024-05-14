@@ -155,8 +155,7 @@ button:hover{
   
   .conteudo-terciario{
     padding: 0.5rem 0rem;
-    margin: auto;
-    }
+  }
   
   .receitas-card{
     padding: 0.5rem 0.5rem;
@@ -196,6 +195,12 @@ button:hover{
 
 }
 
+@media (max-width: 400px){
+  .conteudo-terciario{
+    padding: 0.5rem 0rem;
+    justify-content: flex-start;
+  }
+}
 @media (max-width: 320px){
   .conteudo-principal{
     height: 40vh;
