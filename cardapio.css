@@ -60,6 +60,11 @@ hr{
 .conteudo-terciario{
   max-width: 1120px;
   padding: 1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  gap: 1rem;
   margin: auto;
   }
 
@@ -70,6 +75,7 @@ hr{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   gap: 1rem;
   flex-basis: 0rem;
 }
