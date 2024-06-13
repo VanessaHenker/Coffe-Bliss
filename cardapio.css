@@ -12,7 +12,7 @@
   background-color: #181012;
   min-width: 420px;
   max-width: 1120px;
-  height: 60vh;
+  max-height: 60vh;
   justify-content: center;
   align-items: center;
   padding: 1rem 1rem;
@@ -129,8 +129,7 @@ button:hover{
   height: 50px;
 }
 
-
-@media (max-width: 750px){
+@media (max-width: 760px){
   .conteudo-principal{
     height: 35vh;
     gap: 0.5rem;
@@ -192,7 +191,6 @@ button:hover{
     width: 30px;
     height: 35px;
   }
-
 }
 
 @media (max-width: 400px){
@@ -263,11 +261,5 @@ button:hover{
   button:hover{
     width: 30px;
     height: 35px;
-  }
-}
-
-@media (max-width: 900px){
-  .conteudo-principal{
-    height: 36vh;
   }
 }
